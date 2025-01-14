@@ -1,4 +1,6 @@
 # Mentazzy Project: A Bootloader for 16-bit and Higher Architectures
+**Superviser**: <br>
+- Dr. Muzamil Ahmed
 
 **Authors**: <br>
 - Ejaz Ahmed
